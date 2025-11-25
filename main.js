@@ -5028,6 +5028,2886 @@ var app = (function () {
             url: "https://soundcloud.com/sergio-guerrero-63/22-megaman-x-dr-light?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
             answer: "Dr. Light (Capsule) - Mega Man X",
           },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/space-port?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/28-megaman-x-sigma-battle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 (Beam Saber Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wire-sponge?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wire Sponge - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-flame-mammoth?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Mammoth - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/25-megaman-x-sigma-fortress-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 2 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/slash-beast?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Beast - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/05-megaman-x-zero-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/29-megaman-x-sigma-battle-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 2 (Wolf Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/split-mushroom?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Split Mushroom - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/thicc-aegis/mega-man-x3-staff-roll-snes?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Cast Roll - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wheel-gator?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wheel Gator - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/silver656/mega-man-x3-volt-catfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Volt Catfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-spark-mandrill?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Mandrill - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-flame-stag?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Stag - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-storm-eagle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Eagle - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-magma-dragoon-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Dragoon - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/fluffboihenry/mega-man-x3-boss?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-launch-octopus?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Launch Octopus - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/colonel?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Colonel & General - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x2-ost-sigma-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "X-Hunter Stage 1 - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-armored-armadillo?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Armored Armadillo - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/20-megaman-x-weapon-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/18-stage-select-2?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/rasmus-larsson-17/mega-man-x2-staff-roll?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits (Staff Roll) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-magna-centipede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magna Centipede - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-zero?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage Zero (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-bubble-crab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Crab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/fallen-phoenix-crush/megaman-x2-opening-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Maverick Factory - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/fuzxultimate/megaman-x4-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-weapon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-gravity-beetle?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Beetle - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/18-megaman-x-boss-battle?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/cyber-peacock?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cyber Peacock - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-crystal-snail?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Snail - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-blast-hornet?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Hornet - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-prologue-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cain's Lab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/26-megaman-x-sigma-fortress-3?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 3 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-boomer-kuwanger?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boomer Kuwanger - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/web-spider?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Web Spider - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/zelphixgames/mega-man-x3-sigma?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/snizz-lamont-yoshi-kid-3000/boss-battle-01-mega-man-x2?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/storm-owl?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Owl - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-1?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/23-megaman-x-stage-select-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 (Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/32-megaman-x-castings?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castings (Enemy Elegy) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-morph-moth?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Morph Moth - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/stage-select?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/double?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Double - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/santino-vaquer/mega-man-x3-snes-music-neon?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Neon Tiger - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-x?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage X (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/21-megaman-x-password-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/enmanuel-espinal-42812889/vile-theme-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Vile Stage - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/1-megaman-x-title-screen?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/06-eregion?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Eregion (First Boss) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/17-get-a-weapon?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/art-meza-525950507/megaman-x2-zero_s-theme-no?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/screw-masaider-stage?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tunnel Rhino - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/22-megaman-x-dr-light?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/iris?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iris - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/shellby-the-unholy/mega-man-x3-snes-music-crush-crawfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crush Crawfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss-select?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/oswaldo-lira-425393178/blizzard-buffalo-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Buffalo - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/smokeweedmlg/mega-man-x3-snes-music-dr-doppler-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Doppler Stage 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-jet-stingray-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jet Stingray - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 3 (Sigma Heads) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-ost-zeros-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/26-dr-light?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/07-megaman-x-stage-select-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/31-megaman-x-ending?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending/Epilogue - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/megaman-x3-toxic-seahorse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toxic Seahorse - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-opening-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Hunter Base - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-intro-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Central Highway - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/33-megaman-x-credits?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/24-megaman-x-sigma-fortress-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/credits?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Staff Roll - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/sigma-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 & 2 (Reaper) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-sting-chameleon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sting Chameleon - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-chill-penguin?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Penguin - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/fallen-phoenix-crush/megaman-x2-opening-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Maverick Factory - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/07-megaman-x-stage-select-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-weapon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/shellby-the-unholy/mega-man-x3-snes-music-crush-crawfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crush Crawfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-opening-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Hunter Base - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-bubble-crab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Crab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/23-megaman-x-stage-select-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 (Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/storm-owl?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Owl - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-storm-eagle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Eagle - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/web-spider?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Web Spider - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss-select?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/zelphixgames/mega-man-x3-sigma?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/oswaldo-lira-425393178/blizzard-buffalo-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Buffalo - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/29-megaman-x-sigma-battle-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 2 (Wolf Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-spark-mandrill?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Mandrill - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/33-megaman-x-credits?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/santino-vaquer/mega-man-x3-snes-music-neon?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Neon Tiger - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x2-ost-sigma-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "X-Hunter Stage 1 - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-chill-penguin?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Penguin - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/28-megaman-x-sigma-battle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 (Beam Saber Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/thicc-aegis/mega-man-x3-staff-roll-snes?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Cast Roll - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-gravity-beetle?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Beetle - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-blast-hornet?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Hornet - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-flame-mammoth?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Mammoth - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/screw-masaider-stage?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tunnel Rhino - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/32-megaman-x-castings?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castings (Enemy Elegy) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/snizz-lamont-yoshi-kid-3000/boss-battle-01-mega-man-x2?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/colonel?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Colonel & General - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/space-port?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/18-stage-select-2?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/silver656/mega-man-x3-volt-catfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Volt Catfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/21-megaman-x-password-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/1-megaman-x-title-screen?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/split-mushroom?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Split Mushroom - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-launch-octopus?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Launch Octopus - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/enmanuel-espinal-42812889/vile-theme-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Vile Stage - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wheel-gator?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wheel Gator - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/stage-select?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/sigma-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 & 2 (Reaper) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/18-megaman-x-boss-battle?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-crystal-snail?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Snail - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-x?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage X (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/26-megaman-x-sigma-fortress-3?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 3 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 3 (Sigma Heads) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-boomer-kuwanger?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boomer Kuwanger - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-armored-armadillo?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Armored Armadillo - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-sting-chameleon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sting Chameleon - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/31-megaman-x-ending?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending/Epilogue - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/credits?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Staff Roll - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-magna-centipede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magna Centipede - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-prologue-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cain's Lab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-jet-stingray-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jet Stingray - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/fuzxultimate/megaman-x4-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-magma-dragoon-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Dragoon - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-ost-zeros-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/smokeweedmlg/mega-man-x3-snes-music-dr-doppler-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Doppler Stage 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-1?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/25-megaman-x-sigma-fortress-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 2 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/17-get-a-weapon?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/05-megaman-x-zero-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/22-megaman-x-dr-light?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/26-dr-light?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-intro-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Central Highway - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/double?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Double - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-zero?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage Zero (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/fluffboihenry/mega-man-x3-boss?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/cyber-peacock?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cyber Peacock - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/rasmus-larsson-17/mega-man-x2-staff-roll?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits (Staff Roll) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/20-megaman-x-weapon-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/iris?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iris - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/06-eregion?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Eregion (First Boss) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wire-sponge?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wire Sponge - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-morph-moth?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Morph Moth - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/megaman-x3-toxic-seahorse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toxic Seahorse - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/24-megaman-x-sigma-fortress-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/slash-beast?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Beast - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/art-meza-525950507/megaman-x2-zero_s-theme-no?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-flame-stag?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Stag - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/24-megaman-x-sigma-fortress-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/fluffboihenry/mega-man-x3-boss?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-morph-moth?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Morph Moth - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/screw-masaider-stage?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tunnel Rhino - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-magna-centipede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magna Centipede - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-jet-stingray-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jet Stingray - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-weapon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/slash-beast?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Beast - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/29-megaman-x-sigma-battle-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 2 (Wolf Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-magma-dragoon-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Dragoon - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-boomer-kuwanger?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boomer Kuwanger - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-ost-zeros-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/25-megaman-x-sigma-fortress-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 2 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/fuzxultimate/megaman-x4-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss-select?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-zero?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage Zero (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-opening-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Hunter Base - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-prologue-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cain's Lab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/web-spider?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Web Spider - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/double?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Double - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/snizz-lamont-yoshi-kid-3000/boss-battle-01-mega-man-x2?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/fallen-phoenix-crush/megaman-x2-opening-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Maverick Factory - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-x?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage X (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/07-megaman-x-stage-select-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/26-dr-light?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-armored-armadillo?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Armored Armadillo - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/stage-select?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/zelphixgames/mega-man-x3-sigma?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/colonel?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Colonel & General - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-intro-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Central Highway - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/06-eregion?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Eregion (First Boss) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/22-megaman-x-dr-light?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-spark-mandrill?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Mandrill - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-blast-hornet?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Hornet - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/33-megaman-x-credits?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/iris?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iris - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-flame-mammoth?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Mammoth - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/1-megaman-x-title-screen?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/sigma-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 & 2 (Reaper) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/megaman-x3-toxic-seahorse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toxic Seahorse - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/enmanuel-espinal-42812889/vile-theme-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Vile Stage - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-chill-penguin?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Penguin - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/05-megaman-x-zero-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 3 (Sigma Heads) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wheel-gator?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wheel Gator - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/18-megaman-x-boss-battle?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/space-port?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/20-megaman-x-weapon-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x2-ost-sigma-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "X-Hunter Stage 1 - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/silver656/mega-man-x3-volt-catfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Volt Catfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/21-megaman-x-password-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/credits?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Staff Roll - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-bubble-crab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Crab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/31-megaman-x-ending?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending/Epilogue - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/28-megaman-x-sigma-battle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 (Beam Saber Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-crystal-snail?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Snail - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-launch-octopus?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Launch Octopus - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/art-meza-525950507/megaman-x2-zero_s-theme-no?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/smokeweedmlg/mega-man-x3-snes-music-dr-doppler-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Doppler Stage 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/storm-owl?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Owl - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wire-sponge?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wire Sponge - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/18-stage-select-2?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/17-get-a-weapon?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/rasmus-larsson-17/mega-man-x2-staff-roll?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits (Staff Roll) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/32-megaman-x-castings?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castings (Enemy Elegy) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/shellby-the-unholy/mega-man-x3-snes-music-crush-crawfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crush Crawfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-gravity-beetle?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Beetle - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/thicc-aegis/mega-man-x3-staff-roll-snes?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Cast Roll - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/26-megaman-x-sigma-fortress-3?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 3 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-flame-stag?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Stag - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/23-megaman-x-stage-select-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 (Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/cyber-peacock?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cyber Peacock - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/oswaldo-lira-425393178/blizzard-buffalo-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Buffalo - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-storm-eagle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Eagle - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/santino-vaquer/mega-man-x3-snes-music-neon?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Neon Tiger - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-sting-chameleon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sting Chameleon - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-1?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/split-mushroom?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Split Mushroom - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/slash-beast?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Beast - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/credits?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Staff Roll - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/thicc-aegis/mega-man-x3-staff-roll-snes?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Cast Roll - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x2-ost-sigma-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "X-Hunter Stage 1 - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-blast-hornet?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Hornet - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/zelphixgames/mega-man-x3-sigma?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-magma-dragoon-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Dragoon - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-flame-stag?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Stag - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/stage-select?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/24-megaman-x-sigma-fortress-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-launch-octopus?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Launch Octopus - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-intro-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Central Highway - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wheel-gator?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wheel Gator - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/double?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Double - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/rasmus-larsson-17/mega-man-x2-staff-roll?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits (Staff Roll) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/web-spider?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Web Spider - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/26-megaman-x-sigma-fortress-3?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 3 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/25-megaman-x-sigma-fortress-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 2 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/33-megaman-x-credits?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-armored-armadillo?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Armored Armadillo - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/fuzxultimate/megaman-x4-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/screw-masaider-stage?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tunnel Rhino - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/fluffboihenry/mega-man-x3-boss?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/17-get-a-weapon?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-sting-chameleon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sting Chameleon - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/enmanuel-espinal-42812889/vile-theme-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Vile Stage - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/28-megaman-x-sigma-battle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 (Beam Saber Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-flame-mammoth?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Mammoth - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/art-meza-525950507/megaman-x2-zero_s-theme-no?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-weapon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/07-megaman-x-stage-select-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-x?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage X (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/sigma-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 & 2 (Reaper) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/29-megaman-x-sigma-battle-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 2 (Wolf Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-opening-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Hunter Base - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-bubble-crab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Crab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/snizz-lamont-yoshi-kid-3000/boss-battle-01-mega-man-x2?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/26-dr-light?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/32-megaman-x-castings?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castings (Enemy Elegy) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/22-megaman-x-dr-light?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-morph-moth?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Morph Moth - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/megaman-x3-toxic-seahorse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toxic Seahorse - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/silver656/mega-man-x3-volt-catfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Volt Catfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-chill-penguin?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Penguin - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 3 (Sigma Heads) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/shellby-the-unholy/mega-man-x3-snes-music-crush-crawfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crush Crawfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/santino-vaquer/mega-man-x3-snes-music-neon?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Neon Tiger - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/smokeweedmlg/mega-man-x3-snes-music-dr-doppler-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Doppler Stage 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-boomer-kuwanger?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boomer Kuwanger - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-gravity-beetle?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Beetle - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/20-megaman-x-weapon-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/oswaldo-lira-425393178/blizzard-buffalo-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Buffalo - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/05-megaman-x-zero-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/space-port?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-zero?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage Zero (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/21-megaman-x-password-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/23-megaman-x-stage-select-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 (Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-spark-mandrill?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Mandrill - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/split-mushroom?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Split Mushroom - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/iris?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iris - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-jet-stingray-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jet Stingray - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/storm-owl?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Owl - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wire-sponge?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wire Sponge - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/06-eregion?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Eregion (First Boss) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/cyber-peacock?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cyber Peacock - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-crystal-snail?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Snail - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-ost-zeros-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/fallen-phoenix-crush/megaman-x2-opening-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Maverick Factory - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-storm-eagle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Eagle - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-magna-centipede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magna Centipede - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss-select?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-prologue-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cain's Lab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/18-stage-select-2?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/18-megaman-x-boss-battle?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-1?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/1-megaman-x-title-screen?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/31-megaman-x-ending?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending/Epilogue - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/colonel?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Colonel & General - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/art-meza-525950507/megaman-x2-zero_s-theme-no?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/fluffboihenry/mega-man-x3-boss?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-jet-stingray-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jet Stingray - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-ost-zeros-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/santino-vaquer/mega-man-x3-snes-music-neon?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Neon Tiger - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/web-spider?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Web Spider - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/double?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Double - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-chill-penguin?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Penguin - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/31-megaman-x-ending?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending/Epilogue - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/screw-masaider-stage?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tunnel Rhino - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/33-megaman-x-credits?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/stage-select?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-blast-hornet?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Hornet - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/28-megaman-x-sigma-battle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 (Beam Saber Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-flame-mammoth?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Mammoth - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/26-dr-light?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/sigma-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 & 2 (Reaper) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/rasmus-larsson-17/mega-man-x2-staff-roll?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits (Staff Roll) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-x?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage X (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-flame-stag?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Stag - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/32-megaman-x-castings?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castings (Enemy Elegy) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-morph-moth?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Morph Moth - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/05-megaman-x-zero-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-crystal-snail?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Snail - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wheel-gator?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wheel Gator - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wire-sponge?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wire Sponge - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/23-megaman-x-stage-select-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 (Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-magma-dragoon-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Dragoon - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-prologue-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cain's Lab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/18-megaman-x-boss-battle?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/oswaldo-lira-425393178/blizzard-buffalo-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Buffalo - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/26-megaman-x-sigma-fortress-3?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 3 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-1?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/fuzxultimate/megaman-x4-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/25-megaman-x-sigma-fortress-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 2 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-gravity-beetle?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Beetle - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/silver656/mega-man-x3-volt-catfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Volt Catfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-zero?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage Zero (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x2-ost-sigma-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "X-Hunter Stage 1 - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/24-megaman-x-sigma-fortress-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss-select?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/1-megaman-x-title-screen?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-opening-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Hunter Base - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-bubble-crab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Crab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/credits?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Staff Roll - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/fallen-phoenix-crush/megaman-x2-opening-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Maverick Factory - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/split-mushroom?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Split Mushroom - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/20-megaman-x-weapon-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/22-megaman-x-dr-light?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/storm-owl?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Owl - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/smokeweedmlg/mega-man-x3-snes-music-dr-doppler-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Doppler Stage 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/megaman-x3-toxic-seahorse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toxic Seahorse - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-storm-eagle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Eagle - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-magna-centipede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magna Centipede - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 3 (Sigma Heads) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/space-port?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/snizz-lamont-yoshi-kid-3000/boss-battle-01-mega-man-x2?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/slash-beast?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Beast - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/18-stage-select-2?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/enmanuel-espinal-42812889/vile-theme-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Vile Stage - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-spark-mandrill?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Mandrill - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/07-megaman-x-stage-select-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/thicc-aegis/mega-man-x3-staff-roll-snes?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Cast Roll - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/iris?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iris - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-weapon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-armored-armadillo?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Armored Armadillo - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/17-get-a-weapon?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/colonel?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Colonel & General - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/zelphixgames/mega-man-x3-sigma?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-sting-chameleon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sting Chameleon - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/cyber-peacock?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cyber Peacock - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/21-megaman-x-password-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/shellby-the-unholy/mega-man-x3-snes-music-crush-crawfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crush Crawfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-launch-octopus?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Launch Octopus - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-intro-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Central Highway - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-boomer-kuwanger?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boomer Kuwanger - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/29-megaman-x-sigma-battle-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 2 (Wolf Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/06-eregion?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Eregion (First Boss) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wire-sponge?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wire Sponge - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/enmanuel-espinal-42812889/vile-theme-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Vile Stage - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-magna-centipede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magna Centipede - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/cyber-peacock?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cyber Peacock - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-weapon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/oswaldo-lira-425393178/blizzard-buffalo-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Buffalo - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/web-spider?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Web Spider - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-prologue-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cain's Lab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-gravity-beetle?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Beetle - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/sigma-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 & 2 (Reaper) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-x?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage X (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-ost-zeros-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/24-megaman-x-sigma-fortress-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/rasmus-larsson-17/mega-man-x2-staff-roll?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits (Staff Roll) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/18-stage-select-2?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/fuzxultimate/megaman-x4-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wheel-gator?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wheel Gator - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/santino-vaquer/mega-man-x3-snes-music-neon?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Neon Tiger - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-flame-stag?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Stag - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-crystal-snail?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Snail - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/art-meza-525950507/megaman-x2-zero_s-theme-no?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-1?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-intro-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Central Highway - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/shellby-the-unholy/mega-man-x3-snes-music-crush-crawfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crush Crawfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/21-megaman-x-password-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/22-megaman-x-dr-light?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/17-get-a-weapon?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/33-megaman-x-credits?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/31-megaman-x-ending?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending/Epilogue - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/smokeweedmlg/mega-man-x3-snes-music-dr-doppler-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Doppler Stage 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/screw-masaider-stage?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tunnel Rhino - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-boomer-kuwanger?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boomer Kuwanger - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-sting-chameleon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sting Chameleon - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/29-megaman-x-sigma-battle-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 2 (Wolf Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/stage-select?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/23-megaman-x-stage-select-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 (Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/fluffboihenry/mega-man-x3-boss?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/iris?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iris - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-opening-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Hunter Base - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-bubble-crab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Crab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss-select?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/06-eregion?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Eregion (First Boss) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/split-mushroom?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Split Mushroom - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x2-ost-sigma-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "X-Hunter Stage 1 - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/slash-beast?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Beast - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/1-megaman-x-title-screen?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/18-megaman-x-boss-battle?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-zero?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage Zero (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 3 (Sigma Heads) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-magma-dragoon-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Dragoon - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/fallen-phoenix-crush/megaman-x2-opening-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Maverick Factory - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/20-megaman-x-weapon-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/megaman-x3-toxic-seahorse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toxic Seahorse - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-armored-armadillo?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Armored Armadillo - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/double?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Double - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/storm-owl?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Owl - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-spark-mandrill?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Mandrill - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/25-megaman-x-sigma-fortress-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 2 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-blast-hornet?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Hornet - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/credits?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Staff Roll - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/thicc-aegis/mega-man-x3-staff-roll-snes?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Cast Roll - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/zelphixgames/mega-man-x3-sigma?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/28-megaman-x-sigma-battle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 (Beam Saber Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-morph-moth?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Morph Moth - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/26-megaman-x-sigma-fortress-3?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 3 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/space-port?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/colonel?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Colonel & General - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/07-megaman-x-stage-select-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/05-megaman-x-zero-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-launch-octopus?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Launch Octopus - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/26-dr-light?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-jet-stingray-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jet Stingray - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-chill-penguin?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Penguin - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-storm-eagle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Eagle - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/32-megaman-x-castings?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castings (Enemy Elegy) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/silver656/mega-man-x3-volt-catfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Volt Catfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-flame-mammoth?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Mammoth - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/snizz-lamont-yoshi-kid-3000/boss-battle-01-mega-man-x2?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/28-megaman-x-sigma-battle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 (Beam Saber Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/29-megaman-x-sigma-battle-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 2 (Wolf Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/06-eregion?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Eregion (First Boss) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-zero?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage Zero (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/rasmus-larsson-17/mega-man-x2-staff-roll?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits (Staff Roll) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/26-dr-light?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-armored-armadillo?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Armored Armadillo - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/31-megaman-x-ending?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending/Epilogue - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/screw-masaider-stage?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tunnel Rhino - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/colonel?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Colonel & General - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/megaman-x3-toxic-seahorse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toxic Seahorse - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-magna-centipede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magna Centipede - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-sting-chameleon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sting Chameleon - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-spark-mandrill?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Mandrill - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/oswaldo-lira-425393178/blizzard-buffalo-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Buffalo - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/20-megaman-x-weapon-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-magma-dragoon-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Dragoon - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-bubble-crab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Crab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/enmanuel-espinal-42812889/vile-theme-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Vile Stage - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-ost-zeros-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-flame-mammoth?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Mammoth - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/snizz-lamont-yoshi-kid-3000/boss-battle-01-mega-man-x2?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/24-megaman-x-sigma-fortress-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/slash-beast?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Beast - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/storm-owl?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Owl - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss-select?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/07-megaman-x-stage-select-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/18-stage-select-2?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-gravity-beetle?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Beetle - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/1-megaman-x-title-screen?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-morph-moth?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Morph Moth - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/17-get-a-weapon?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-prologue-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cain's Lab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-1?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/cyber-peacock?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cyber Peacock - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/web-spider?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Web Spider - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/25-megaman-x-sigma-fortress-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 2 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 3 (Sigma Heads) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/silver656/mega-man-x3-volt-catfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Volt Catfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/split-mushroom?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Split Mushroom - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/22-megaman-x-dr-light?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/fluffboihenry/mega-man-x3-boss?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/double?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Double - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wire-sponge?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wire Sponge - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/33-megaman-x-credits?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/21-megaman-x-password-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-blast-hornet?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Hornet - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wheel-gator?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wheel Gator - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/18-megaman-x-boss-battle?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/26-megaman-x-sigma-fortress-3?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 3 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/23-megaman-x-stage-select-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 (Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-storm-eagle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Eagle - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/05-megaman-x-zero-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/sigma-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 & 2 (Reaper) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-flame-stag?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Stag - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/shellby-the-unholy/mega-man-x3-snes-music-crush-crawfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crush Crawfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-weapon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/fallen-phoenix-crush/megaman-x2-opening-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Maverick Factory - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x2-ost-sigma-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "X-Hunter Stage 1 - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-intro-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Central Highway - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/32-megaman-x-castings?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castings (Enemy Elegy) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-chill-penguin?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Penguin - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/thicc-aegis/mega-man-x3-staff-roll-snes?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Cast Roll - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-jet-stingray-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jet Stingray - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/credits?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Staff Roll - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/smokeweedmlg/mega-man-x3-snes-music-dr-doppler-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Doppler Stage 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/santino-vaquer/mega-man-x3-snes-music-neon?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Neon Tiger - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/fuzxultimate/megaman-x4-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-launch-octopus?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Launch Octopus - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/stage-select?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-opening-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Hunter Base - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/iris?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iris - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-x?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage X (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/zelphixgames/mega-man-x3-sigma?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-crystal-snail?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Snail - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/art-meza-525950507/megaman-x2-zero_s-theme-no?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/space-port?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-boomer-kuwanger?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boomer Kuwanger - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/23-megaman-x-stage-select-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 (Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/santino-vaquer/mega-man-x3-snes-music-neon?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Neon Tiger - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-x?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage X (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/fuzxultimate/megaman-x4-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/33-megaman-x-credits?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-jet-stingray-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jet Stingray - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/28-megaman-x-sigma-battle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 (Beam Saber Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/silver656/mega-man-x3-volt-catfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Volt Catfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/snizz-lamont-yoshi-kid-3000/boss-battle-01-mega-man-x2?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-flame-mammoth?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Mammoth - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/stage-select?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x2-ost-sigma-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "X-Hunter Stage 1 - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-magma-dragoon-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Dragoon - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wheel-gator?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wheel Gator - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/storm-owl?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Owl - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/24-megaman-x-sigma-fortress-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/double?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Double - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/29-megaman-x-sigma-battle-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 2 (Wolf Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/18-stage-select-2?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-flame-stag?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Stag - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/cyber-peacock?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cyber Peacock - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-zero?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage Zero (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/22-megaman-x-dr-light?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/shellby-the-unholy/mega-man-x3-snes-music-crush-crawfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crush Crawfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-gravity-beetle?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Beetle - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/split-mushroom?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Split Mushroom - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/sigma-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 & 2 (Reaper) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/18-megaman-x-boss-battle?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-opening-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Hunter Base - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-weapon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/megaman-x3-toxic-seahorse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toxic Seahorse - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-storm-eagle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Eagle - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/07-megaman-x-stage-select-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/oswaldo-lira-425393178/blizzard-buffalo-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Buffalo - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wire-sponge?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wire Sponge - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-spark-mandrill?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Mandrill - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/web-spider?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Web Spider - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-sting-chameleon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sting Chameleon - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/space-port?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-boomer-kuwanger?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boomer Kuwanger - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/31-megaman-x-ending?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending/Epilogue - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/screw-masaider-stage?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tunnel Rhino - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/zelphixgames/mega-man-x3-sigma?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss-select?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/17-get-a-weapon?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/colonel?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Colonel & General - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/thicc-aegis/mega-man-x3-staff-roll-snes?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Cast Roll - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-launch-octopus?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Launch Octopus - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-armored-armadillo?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Armored Armadillo - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/slash-beast?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Beast - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 3 (Sigma Heads) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-crystal-snail?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Snail - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-morph-moth?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Morph Moth - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/26-dr-light?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-bubble-crab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Crab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-intro-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Central Highway - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/art-meza-525950507/megaman-x2-zero_s-theme-no?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-chill-penguin?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Penguin - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/05-megaman-x-zero-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-blast-hornet?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Hornet - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/fallen-phoenix-crush/megaman-x2-opening-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Maverick Factory - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/credits?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Staff Roll - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-1?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/smokeweedmlg/mega-man-x3-snes-music-dr-doppler-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Doppler Stage 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/iris?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iris - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/20-megaman-x-weapon-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-ost-zeros-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/25-megaman-x-sigma-fortress-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 2 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/fluffboihenry/mega-man-x3-boss?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/enmanuel-espinal-42812889/vile-theme-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Vile Stage - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/06-eregion?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Eregion (First Boss) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/1-megaman-x-title-screen?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/32-megaman-x-castings?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castings (Enemy Elegy) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/26-megaman-x-sigma-fortress-3?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 3 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-prologue-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cain's Lab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-magna-centipede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magna Centipede - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/21-megaman-x-password-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/rasmus-larsson-17/mega-man-x2-staff-roll?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits (Staff Roll) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/storm-owl?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Owl - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-ost-zeros-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/oswaldo-lira-425393178/blizzard-buffalo-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blizzard Buffalo - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-jet-stingray-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Jet Stingray - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/santino-vaquer/mega-man-x3-snes-music-neon?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Neon Tiger - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x3-opening-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Hunter Base - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/iris?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Iris - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-armored-armadillo?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Armored Armadillo - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-x?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage X (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/26-dr-light?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-storm-eagle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Storm Eagle - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/credits?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Staff Roll - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/21-megaman-x-password-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Password Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/colonel?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Colonel & General - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/25-megaman-x-sigma-fortress-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 2 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/06-eregion?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Eregion (First Boss) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/fluffboihenry/mega-man-x3-boss?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/snizz-lamont-yoshi-kid-3000/boss-battle-01-mega-man-x2?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/intro-stage-zero?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage Zero (Sky Lagoon) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/18-stage-select-2?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/split-mushroom?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Split Mushroom - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-weapon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 2 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/final-boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 3 (Sigma Heads) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-flame-stag?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Stag - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/26-megaman-x-sigma-fortress-3?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 3 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/web-spider?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Web Spider - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/frost-walrus-1?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Frost Walrus Area 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-magna-centipede?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magna Centipede - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-morph-moth?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Morph Moth - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/fuzxultimate/megaman-x4-opening?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening Cutscene - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-flame-mammoth?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Flame Mammoth - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wire-sponge?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wire Sponge - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-blast-hornet?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Blast Hornet - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/22-megaman-x-dr-light?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Light (Capsule) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/07-megaman-x-stage-select-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/rasmus-larsson-17/mega-man-x2-staff-roll?in=xweetok/sets/mega-man-x2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits (Staff Roll) - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/20-megaman-x-weapon-screen?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/fallen-phoenix-crush/megaman-x2-opening-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Maverick Factory - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/31-megaman-x-ending?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Ending/Epilogue - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/18-megaman-x-boss-battle?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-bubble-crab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Bubble Crab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x2-ost-sigma-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "X-Hunter Stage 1 - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-wheel-gator?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Wheel Gator - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/slash-beast?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Slash Beast - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss-select?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/screw-masaider-stage?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Tunnel Rhino - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/32-megaman-x-castings?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Castings (Enemy Elegy) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-prologue-theme?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Dr. Cain's Lab - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/eyeless-eren/stage-select?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/thicc-aegis/mega-man-x3-staff-roll-snes?in=xweetok/sets/mega-man-x3-snes&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits/Cast Roll - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/megaman-x2-ost-crystal-snail?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crystal Snail - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-chill-penguin?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Chill Penguin - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/space-port?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Final Weapon Stage 1 - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-sting-chameleon?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sting Chameleon - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-launch-octopus?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Launch Octopus - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/my_cure_to_life/mega-man-x4-ost-magma-dragoon-stage?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Magma Dragoon - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/sigma-2?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 & 2 (Reaper) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-boomer-kuwanger?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Boomer Kuwanger - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/zelphixgames/mega-man-x3-sigma?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/shellby-the-unholy/mega-man-x3-snes-music-crush-crawfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Crush Crawfish - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/23-megaman-x-stage-select-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Stage Select 2 (Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/leon-videla-roth/megaman-x3-toxic-seahorse?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Toxic Seahorse - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/boss?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Maverick Battle (Boss Fight) - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/art-meza-525950507/megaman-x2-zero_s-theme-no?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X2",
+          },
+          {
+            url: "https://soundcloud.com/enmanuel-espinal-42812889/vile-theme-megaman-x3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Vile Stage - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/smokeweedmlg/mega-man-x3-snes-music-dr-doppler-stage-01?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Doppler Stage 1 - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/double?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Double - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/17-get-a-weapon?in=xweetok/sets/mega-man-x4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Special Weapon Get - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-intro-stage?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Opening/Intro Stage: Central Highway - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/24-megaman-x-sigma-fortress-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Fortress Stage 1 - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/29-megaman-x-sigma-battle-2?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 2 (Wolf Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/theastaroth/megaman-x-spark-mandrill?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Spark Mandrill - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/1-megaman-x-title-screen?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Title Screen - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/jonathan-correia-548181655/cyber-peacock?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Cyber Peacock - Mega Man X4",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/05-megaman-x-zero-1?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Zero's Theme - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/mikisan33/28-megaman-x-sigma-battle?in=jozerush/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Sigma Battle Phase 1 (Beam Saber Sigma) - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/kerenon/megaman-x3-gravity-beetle?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Gravity Beetle - Mega Man X3",
+          },
+          {
+            url: "https://soundcloud.com/sergio-guerrero-63/33-megaman-x-credits?in=sergio-guerrero-63/sets/megaman-x-ost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Credits - Mega Man X",
+          },
+          {
+            url: "https://soundcloud.com/silver656/mega-man-x3-volt-catfish?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            answer: "Volt Catfish - Mega Man X3",
+          },
         ],
         Pn
       ).subscribe,
